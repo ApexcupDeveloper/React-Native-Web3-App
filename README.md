@@ -9,13 +9,16 @@
 
 ### Installation
 1. Please clone the project.
+```
+git clone 
+```
 2. Install `node_modules`.
 ```
 npm install
 ```
 3. Please make sure you have installed Metamask app on your device:
-Android: https://play.google.com/store/apps/details?id=io.metamask&hl=en&gl=US
-IOS: https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202
+* Android: https://play.google.com/store/apps/details?id=io.metamask&hl=en&gl=US
+* IOS: https://apps.apple.com/us/app/metamask-blockchain-wallet/id1438144202
 
 ### Run
 1. Run on android
@@ -29,4 +32,4 @@ npx react-native start
 npx react-native run-ios
 ```
 ### Note 
-* This app will not work on simulator because this app requires Metamask app for Wallet connection. Please run the project on real device *
+* This app will not work on simulator because this app requires Metamask app for Wallet connection. Please run the project on real device
