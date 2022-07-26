@@ -1,4 +1,4 @@
-# React Native Test APP
+# React Native Test App
 
 ### Task
 1. Create simple View with a button to connect to the Metamask and display some informations such as chainID, ENS, Balance, Address.
@@ -10,7 +10,7 @@
 ### Installation
 1. Please clone the project.
 ```
-git clone 
+git clone git@github.com:ApexcupDeveloper/React-Native-Web3-App.git
 ```
 2. Install `node_modules`.
 ```
