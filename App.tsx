@@ -146,7 +146,9 @@ const App = (): JSX.Element => {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    backgroundColor: '#FFFFFF',
+    height: '100%',
+    width: '100%'
   },
   body: {
     width: '90%',
@@ -198,8 +200,6 @@ const styles = StyleSheet.create({
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-
-    backgroundColor: 'gray'
   }
 });
 
